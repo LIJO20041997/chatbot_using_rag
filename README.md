@@ -16,6 +16,6 @@ This Streamlit application creates a chatbot capable of answering questions base
 
 ## Setup and Installation
   **Clone the repository**
-     git clone https://github.com/your-username/chatbot_using_rag.git
-     cd chatbot_using_rag
-     streamlit run app.py
+     - git clone https://github.com/your-username/chatbot_using_rag.git
+     - cd chatbot_using_rag
+     - streamlit run app.py
